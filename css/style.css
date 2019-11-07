@@ -195,6 +195,7 @@ font-weight: bold;
 }
 .main-grid-item:hover{
   transform: scale(1.08);
+  transition: all 250ms ease-in-out;
 }
 /*-- Card Backgrounds --*/
 .one .thumb {background-image: url('http://lorempixel.com/output/cats-q-c-397-317-10.jpg');}
